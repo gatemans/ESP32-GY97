@@ -36,7 +36,7 @@ If you're interested in:
 - Ordering **customized versions** of this PCB  
 - Getting the board **assembled with a case and wiring**  
 
-📩 **Contact me via Email:** yourname [at] domain [dot] com  
+📩 **Contact me via Email:**mohammadmahdikhaligh@gmail.com 
 💬 **Message me on WhatsApp/Telegram:** [Click Here](https://t.me/Khalygh/)  
 
 ##  License
