@@ -37,7 +37,7 @@ If you're interested in:
 - Getting the board **assembled with a case and wiring**  
 
 📩 **Contact me via Email:** yourname [at] domain [dot] com  
-💬 **Message me on WhatsApp/Telegram:** [Click Here](https://Khalygh/)  
+💬 **Message me on WhatsApp/Telegram:** [Click Here](https://t.me/Khalygh/)  
 
 ##  License
 This project is open-source under the **MIT License**.
