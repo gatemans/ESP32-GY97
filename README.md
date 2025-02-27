@@ -25,12 +25,16 @@ This repository contains the design files for a custom PCB that integrates an **
 ## 📷 Project Preview
 - Schematic
 ![Schematic](/schematics.png)
+
 - 2D Front View
 ![2D Front View](/2Df.png)
+
 - 2D Back View 
-![2D Back View](/2Db.png)  
+![2D Back View](/2Db.png)
+
 - 3D Front View
-![3D Front View](/3Df.png) 
+![3D Front View](/3Df.png)
+
 - 3D Back View
 ![3D Back View](/3Db.png)  
 
