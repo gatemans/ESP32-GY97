@@ -1,4 +1,4 @@
-# ESP32 + GY-97 Sensor PCB
+# ESP32 + GY-97 Sensor
 
 This repository contains the design files for a custom PCB that integrates an **ESP32 module** with a **GY-97 9-axis IMU sensor** and an **SD card slot** for data logging.
 
