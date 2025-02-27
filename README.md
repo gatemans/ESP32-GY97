@@ -23,7 +23,7 @@ This repository contains the design files for a custom PCB that integrates an **
 - Data can also be transmitted via Wi-Fi or Bluetooth (future updates).
 
 ## 📷 PCB Preview
-![Schematic](./Images/schematics.png)  
+![Schematic](/schematics.png)  
 ![3D Back View](./Images/pcb_back.png)  
 ![2D Front View](./Images/pcb_front.png)  
 ![2D Back View](./Images/pcb_back.png)  
