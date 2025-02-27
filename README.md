@@ -22,11 +22,16 @@ This repository contains the design files for a custom PCB that integrates an **
 - The firmware reads sensor data from the GY-97 and logs it to the SD card.
 - Data can also be transmitted via Wi-Fi or Bluetooth (future updates).
 
-## 📷 PCB Preview
-![Schematic](/schematics.png)  
-![2D Front View](/2Df.png)  
+## 📷 Project Preview
+- Schematic
+![Schematic](/schematics.png)
+- 2D Front View
+![2D Front View](/2Df.png)
+- 2D Back View 
 ![2D Back View](/2Db.png)  
-![3D Front View](/3Df.png)  
+- 3D Front View
+![3D Front View](/3Df.png) 
+- 3D Back View
 ![3D Back View](/3Db.png)  
 
 ## 💼 Custom Orders & Contact
