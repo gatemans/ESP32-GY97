@@ -34,7 +34,7 @@ This repository contains the design files for a custom PCB that integrates an **
 If you're interested in:  
 - Purchasing the **Altium project files** or **source code**  
 - Ordering **customized versions** of this PCB  
-- Getting the board **assembled with a case and wiring**  
+- Getting the board **assembled with a case and wires**  
 
 📩 **Contact me via Email:** mohammadmahdikhaligh@gmail.com 
 
