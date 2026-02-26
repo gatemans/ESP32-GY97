@@ -1,6 +1,6 @@
-# ESP32 + GY-97 Sensor
+# ESP32 + GY-87 Sensor
 
-This repository contains the design files for a custom PCB that integrates an **ESP32 module** with a **GY-97 9-axis IMU sensor** and an **SD card slot** for data logging.
+This repository contains the design files for a custom PCB that integrates an **ESP32 module** with a **GY-87 9-axis IMU sensor** and an **SD card slot** for data logging.
 
 ## 📌 Features
 - **ESP32 Module** for Wi-Fi and Bluetooth connectivity.
@@ -14,7 +14,7 @@ This repository contains the design files for a custom PCB that integrates an **
 ## 🛠️ How to Use
 1. **Assemble the PCB** using the provided BOM and component placement files.
 2. **Flash the ESP32 Firmware** using the Arduino IDE or PlatformIO.
-3. **Connect the GY-97 Sensor** via I2C or SPI (as per the design).
+3. **Connect the GY-87 Sensor** via I2C or SPI (as per the design).
 4. **Insert a MicroSD Card** to store logged data.
 5. **Power up the module** via USB-C or an external power source.
 
